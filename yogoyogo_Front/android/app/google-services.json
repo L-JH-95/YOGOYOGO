@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197379581458",
+    "firebase_url": "https://yogoyogo-5140e.firebaseio.com",
+    "project_id": "yogoyogo-5140e",
+    "storage_bucket": "yogoyogo-5140e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197379581458:android:e433172290d7d42a2adacb",
+        "android_client_info": {
+          "package_name": "com.yogoyogo_front"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197379581458-vgo1qp5kqbsamp335jsedce15mf6jdnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogoyogo_front",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "197379581458-nvmhk4a6mo3pq8e9ak3rcnve8iu0l42h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmn3Ce4KG-2fTenZywPxJ7BL9Ids22hSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197379581458-nvmhk4a6mo3pq8e9ak3rcnve8iu0l42h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
